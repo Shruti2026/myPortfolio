@@ -9,7 +9,6 @@ Welcome to my portfolio repository! I'm a **Java Full-Stack Developer** and a 2n
 - 🌱 Exploring **AWS, Docker, and System Design**
 
 ## 🔗 Portfolio Website
-[👉 Visit My Portfolio](#) *(Add your portfolio link here)*
 
 ## 🛠️ Tech Stack
 - **Backend:** Java, Spring Boot, REST APIs
