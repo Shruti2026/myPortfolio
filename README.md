@@ -30,10 +30,5 @@ A **Java-based employee detail form** for collecting and managing employee infor
 ### 🐾 Animal Sound Game
 An interactive **Animal Sound Game** where users guess the animal based on its sound, built using Java.
 
-## 📬 Contact
-- **GitHub:** [github.com/yourusername](#) *(Replace with your GitHub profile link)*
-- **LinkedIn:** [linkedin.com/in/yourprofile](#) *(Replace with your LinkedIn profile link)*
-- **Email:** your.email@example.com *(Replace with your email)*
-
 ---
 
