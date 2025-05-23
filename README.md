@@ -1,33 +1,24 @@
-# 🚀 My Developer Portfolio
+# Portfolio
 
-Welcome to my portfolio repository! I'm a **Java Full-Stack Developer** and a 2nd-year MCA student at **NIT Raipur**. This portfolio showcases my skills, projects, and experiences in **Spring Boot, React, SQL, and more**.
+Welcome to my portfolio repository! I'm a **Full-Stack Web Developer** specializing in the MERN stack and a MCA student at NIT Raipur. This portfolio showcases my skills, projects, and experiences using MongoDB, Express.js, React, Node.js, and more.
 
-## 📌 About Me
-- 🎓 MCA Student at **NIT Raipur**
-- 💻 Passionate about **Java Full-Stack Development**
-- 🛠️ Building projects with **Spring Boot, React, and SQL**
-- 🌱 Exploring **AWS, Docker, and System Design**
+## Glimpse of My Portfolio
 
-## 🔗 Portfolio Website
+*Home page*
+![Home page](./assets/1.png)<br><br><br>
 
-## 🛠️ Tech Stack
-- **Backend:** Java, Spring Boot, REST APIs
-- **Frontend:** React, Java Swing
-- **Database:** SQL, PostgreSQL, MySQL
-- **Other Tools:** AWS, Docker, Git
+*Skills page*
+![Skills page](./assets/2.png)<br><br><br>
 
-## 📂 Featured Projects
-### 🎮 Tic-Tac-Toe (Java Swing & AWS)
-A fun **Tic-Tac-Toe game** built using **Java Swing** with cloud storage integration using **AWS**.
+*Work page*
+![Work page](./assets/3.png)<br><br><br>
 
-### 🧮 Calculator
-A simple **calculator application** built using Java that supports basic arithmetic operations.
+*About Me page*
+![About Me page](./assets/4.png)<br><br><br>
 
-### 📋 Employee Detail Form
-A **Java-based employee detail form** for collecting and managing employee information efficiently.
+## Tech Stack
 
-### 🐾 Animal Sound Game
-An interactive **Animal Sound Game** where users guess the animal based on its sound, built using Java.
+- **Frontend:** React, TailwindCSS
 
----
+
 
