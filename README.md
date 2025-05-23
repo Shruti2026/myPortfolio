@@ -5,7 +5,7 @@ Welcome to my portfolio repository! I'm a **Full-Stack Web Developer** specializ
 ## Glimpse of My Portfolio
 
 *Full video of portfolio*
-[Watch demo video](./src/assets/video.mp4)<br><br><br>
+📌 Check out the live demo  [Watch](https://www.linkedin.com/feed/update/urn:li:activity:7331713543118966784/)<br><br><br>
 
 *Home page*
 ![Home page](./src/assets/1.png)<br><br><br>
