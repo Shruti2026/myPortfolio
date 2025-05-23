@@ -60,7 +60,7 @@ function Component3() {
                             <p className="text-lg"><span className="font-bold">Technology:</span> MongoDB, ExpressJs, React, NodeJs</p>
                             <p className="text-md">
                                 <span className="font-bold">Description:</span> CashCraft is a smart personal finance tracker that helps you manage your income, expenses, and savings with ease. 
-                                            It features a goal-based savings system and an interactive dashboard with insightful charts for better financial planning.
+                                            It features a goal-based savings system and an interactive dashboard with insightful charts for better financial planning. <a href="https://github.com/Shruti2026/CashCraft.git" className="text-blue-500 underline decoration-blue-500" target="_blank">View more</a>
                             </p>
                         </div>
                     </div>
@@ -73,7 +73,7 @@ function Component3() {
                             <p className="text-lg"><span className="font-bold">Technology:</span> Python, Naïve Bayes Classifer, ML, NLP, Streamlit</p>
                             <p className="text-md">
                                 <span className="font-bold">Description:</span> A web-based application that predicts whether a given email or SMS message is HAM (Not Spam) or SPAM using Naive Bayes Classifier,
-                                                                                 Natural Language Processing (NLP) techniques, and a sleek interface built with Streamlit.
+                                                                                 Natural Language Processing (NLP) techniques, and a sleek interface built with Streamlit. <a href="https://github.com/Shruti2026/Email-SMS-Spam-Detector.git" className="text-blue-500 underline decoration-blue-500" target="_blank">View more</a>
                             </p>
                         </div>
                         <img 
@@ -97,7 +97,7 @@ function Component3() {
                             <p className="text-lg"><span className="font-bold">Technology:</span> React, TailwindCSS</p>
                             <p className="text-md">
                                 <span className="font-bold">Description:</span> This travel website is built with React for dynamic, 
-                                                                                component-based UI development and Tailwind CSS for fast, responsive, and utility-first styling.
+                                                                                component-based UI development and Tailwind CSS for fast, responsive, and utility-first styling. <a href="https://github.com/Shruti2026/Travel-Website.git" className="text-blue-500 underline decoration-blue-500" target="_blank">View more</a>
                             </p>
                         </div>
                     </div>
