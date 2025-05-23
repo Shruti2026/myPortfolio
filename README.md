@@ -5,16 +5,16 @@ Welcome to my portfolio repository! I'm a **Full-Stack Web Developer** specializ
 ## Glimpse of My Portfolio
 
 *Home page*
-![Home page](./assets/1.png)<br><br><br>
+![Home page](./src/assets/1.png)<br><br><br>
 
 *Skills page*
-![Skills page](./assets/2.png)<br><br><br>
+![Skills page](./src/assets/2.png)<br><br><br>
 
 *Work page*
-![Work page](./assets/3.png)<br><br><br>
+![Work page](./src/assets/3.png)<br><br><br>
 
 *About Me page*
-![About Me page](./assets/4.png)<br><br><br>
+![About Me page](./src/assets/4.png)<br><br><br>
 
 ## Tech Stack
 
