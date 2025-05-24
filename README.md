@@ -6,7 +6,7 @@ A clean, modern, and fully responsive **personal portfolio website** built with 
 
 ## Live Demo
 
-[🔗 Visit Live Site][watch](https://www.linkedin.com/feed/update/urn:li:activity:7331713543118966784/)
+[🔗 Visit Live Site] [watch](https://www.linkedin.com/feed/update/urn:li:activity:7331713543118966784/)
 
 ---
 
@@ -35,11 +35,11 @@ A clean, modern, and fully responsive **personal portfolio website** built with 
 ## Folder Structure
 
 src/
-├── assets/ # Images, icons, and PDFs
-├── components/ # Navbar, Footer, Cards, etc.
-├── pages/ # About, Skills, Work, Resume
-├── App.jsx # Main application component
-├── main.jsx # Entry point
+├── assets/ # Images, icons, and PDFs<br>
+├── components/ # Navbar, Footer, Cards, etc.<br>
+├── pages/ # About, Skills, Work, Resume<br>
+├── App.jsx # Main application component<br>
+├── main.jsx # Entry point<br>
 └── index.css # Tailwind CSS imports
 
 ---
@@ -64,7 +64,7 @@ Highlights of education, experience, and a downloadable resume link.
 
 ### 1. Clone the repository
 
-git clone https://github.com/Shruti2026/myPortfolio.git
+git clone https://github.com/Shruti2026/myPortfolio.git<br>
 cd portfolio-website
 
 ### 2. Install dependencies
@@ -98,8 +98,7 @@ This project is licensed under the MIT License.
 ## Author
 
 ### Shruti Gupta
-📧 your.email@example.com
-🔗 GitHub • LinkedIn • Portfolio
+📧 gshruti779@gmail.com
 
 ## Acknowledgements
 React
