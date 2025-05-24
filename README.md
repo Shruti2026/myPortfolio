@@ -34,10 +34,9 @@ A clean, modern, and fully responsive **personal portfolio website** built with 
 
 ## Folder Structure
 
-src/
+src/<br>
 ├── assets/ # Images, icons, and PDFs<br>
-├── components/ # Navbar, Footer, Cards, etc.<br>
-├── pages/ # About, Skills, Work, Resume<br>
+├── components/ # About, Skills, Work, Resume<br>
 ├── App.jsx # Main application component<br>
 ├── main.jsx # Entry point<br>
 └── index.css # Tailwind CSS imports
