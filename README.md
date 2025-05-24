@@ -64,7 +64,6 @@ Highlights of education, experience, and a downloadable resume link.
 
 ### 1. Clone the repository
 
-```bash
 git clone https://github.com/Shruti2026/myPortfolio.git
 cd portfolio-website
 
