@@ -13,7 +13,7 @@ function Component4()
         >
             <nav className="flex justify-between items-center px-5 mt-17 mr-3">
                 <div>
-                    <img src="./src/assets/name_logo.png" alt="S Logo" className="hover:opacity-80 w-16"></img>
+                    <img src="/assets/name_logo.png" alt="S Logo" className="hover:opacity-80 w-16"></img>
                 </div>
                 <div className='flex justify-between gap-8'>
                     <Link to="/">
@@ -37,7 +37,7 @@ function Component4()
                         </button>
                     </Link>
                     <button className="text-lg text-white hover:underline decoration-pink-400 active:opacity-95">
-                        <a href="/src/assets/updated_resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
+                        <a href="/assets/updated_resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
                     </button>
                 </div>
             </nav>
@@ -59,22 +59,22 @@ function Component4()
                         <div className="inline-flex justify-center space-x-4">
                             <div className='transform transition-transform duration-300 hover:scale-140 hover:opacity-80 w-8'>
                                 <a href="https://www.linkedin.com/in/shruti-gupta-193709210/" target="_blank">
-                                    <img src="src/assets/linkedin.png"></img>
+                                    <img src="/assets/linkedin.png"></img>
                                 </a>
                             </div>
                             <div className='transform transition-transform duration-300 hover:scale-140 hover:opacity-80 w-8'>
                                 <a href="https://www.instagram.com/_shruti_2026_/?hl=en" target="_blank">
-                                    <img src="src/assets/instagram.png"></img>
+                                    <img src="/assets/instagram.png"></img>
                                 </a>
                             </div>
                             <div className='transform transition-transform duration-300 hover:scale-140 hover:opacity-80 w-8'>
                                 <a href="mailto:'gshruti779@gmail.com'" target="_blank">
-                                    <img src="src/assets/email.png"></img>
+                                    <img src="/assets/email.png"></img>
                                 </a>
                             </div>
                             <div className='transform transition-transform duration-300 hover:scale-140 hover:opacity-80 w-8'>
                                 <a href="https://github.com/Shruti2026" target="_blank">
-                                    <img src="src/assets/github.png"></img>
+                                    <img src="/assets/github.png"></img>
                                 </a>
                             </div>
                         </div>

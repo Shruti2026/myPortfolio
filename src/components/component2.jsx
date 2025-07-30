@@ -12,7 +12,7 @@ function Component2()
         >
             <nav className="flex justify-between items-center px-5 mt-2 mr-5">
                 <div>
-                    <img src="./src/assets/name_logo.png" alt="S Logo" className="hover:opacity-80 w-16"></img>
+                    <img src=" /assets/name_logo.png" alt="S Logo" className="hover:opacity-80 w-16"></img>
                 </div>
                 <div className='flex justify-between gap-8'>
                     <Link to="/">
@@ -36,13 +36,13 @@ function Component2()
                         </button>
                     </Link>
                     <button className="text-lg text-white hover:underline decoration-pink-400 active:opacity-95">
-                        <a href="/src/assets/updated_resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
+                        <a href=" /assets/updated_resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
                     </button>
                 </div>
             </nav>
             <div className="flex justify-between">
                 <div>
-                    <img src="/src/assets/skills.avif" className="rounded-r-full mt-40 border-r-4 border-b-4 border-gray-500"></img>
+                    <img src=" /assets/skills.avif" className="rounded-r-full mt-40 border-r-4 border-b-4 border-gray-500"></img>
                 </div>
                 <div>
                     <div className="w-170 bg-pink-100 border-l-4 border-b-4 border-gray-500 hover:shadow-2xl rounded-l-full mt-6 transform transition-transform duration-300 hover:scale-110">
@@ -51,11 +51,11 @@ function Component2()
                         </p>
                         <div className="pl-15 pb-2">
                             <div className="inline-flex">
-                                <img src="/src/assets/c.webp" className="w-6"></img>
+                                <img src=" /assets/c.webp" className="w-6"></img>
                                 <p className="flex text-base ml-2 italic">C programming ,</p>
-                                <img src="/src/assets/java.png" className="w-4 ml-4"></img>
+                                <img src="/assets/java.png" className="w-4 ml-4"></img>
                                 <p className="flex text-base ml-2 italic">Java ,</p>
-                                <img src="/src/assets/python.png" className="w-6 ml-4"></img>
+                                <img src="/assets/python.png" className="w-6 ml-4"></img>
                                 <p className="flex text-base ml-2 italic">Python </p>
                             </div>
                             
@@ -67,15 +67,15 @@ function Component2()
                         </p>
                         <div className="pl-15 pb-2">
                             <div className="inline-flex">
-                                <img src="/src/assets/html.png" className="w-6"></img>
+                                <img src="/assets/html.png" className="w-6"></img>
                                 <p className="flex text-base ml-2 italic">Html ,</p>
-                                <img src="/src/assets/css.svg" className="w-5 ml-4"></img>
+                                <img src="/assets/css.svg" className="w-5 ml-4"></img>
                                 <p className="flex text-base ml-2 italic">CSS ,</p>
-                                <img src="/src/assets/tailwindcss.png" className="w-4 ml-4"></img>
+                                <img src="/assets/tailwindcss.png" className="w-4 ml-4"></img>
                                 <p className="flex text-base ml-2 italic">TailwindCSS ,</p>
-                                <img src="/src/assets/js.webp" className="w-6 ml-4"></img>
+                                <img src="/assets/js.webp" className="w-6 ml-4"></img>
                                 <p className="flex text-base ml-2 italic">Javascript ,</p>
-                                <img src="/src/assets/react.webp" className="w-6 ml-4"></img>
+                                <img src="/assets/react.webp" className="w-6 ml-4"></img>
                                 <p className="flex text-base ml-2 italic">React</p>
                             </div>
                         </div>
@@ -86,9 +86,9 @@ function Component2()
                         </p>
                         <div className="pl-15 pb-2">
                             <div className="inline-flex">
-                                <img src="/src/assets/expressjs.png" className="w-8 h-9"></img>
+                                <img src="/assets/expressjs.png" className="w-8 h-9"></img>
                                 <p className="flex text-base ml-2 italic">Express.js ,</p>
-                                <img src="/src/assets/nodejs.png" className="w-6 ml-4"></img>
+                                <img src="/assets/nodejs.png" className="w-6 ml-4"></img>
                                 <p className="flex text-base ml-2 italic">Node.js </p>
                             </div>
                         </div>
@@ -99,13 +99,13 @@ function Component2()
                         </p>
                         <div className="pl-15 pb-2">
                             <div className="inline-flex">
-                                <img src="/src/assets/mongodb.png" className="w-9"></img>
+                                <img src="/assets/mongodb.png" className="w-9"></img>
                                 <p className="flex text-base ml-2 italic">MongoDB ,</p>
-                                <img src="/src/assets/oracle.png" className="w-9"></img>
+                                <img src="/assets/oracle.png" className="w-9"></img>
                                 <p className="flex text-base ml-2 italic">Oracle ,</p>
-                                <img src="/src/assets/postgresql.png" className="w-6 ml-4"></img>
+                                <img src="/assets/postgresql.png" className="w-6 ml-4"></img>
                                 <p className="flex text-base ml-2 italic">Postgresq ,</p>
-                                <img src="/src/assets/mysql.png" className="w-9 ml-4"></img>
+                                <img src="/assets/mysql.png" className="w-9 ml-4"></img>
                                 <p className="flex text-base ml-2 italic">MySql </p>
                             </div> 
                         </div>

@@ -6,7 +6,7 @@ A clean, modern, and fully responsive **personal portfolio website** built with 
 
 ## Live Demo
 
-[🔗 Visit Live Site] [watch](https://www.linkedin.com/feed/update/urn:li:activity:7331713543118966784/)
+[🔗 Visit Live Site] [watch](https://my-portfolio-umber-ten-88.vercel.app/)
 
 ---
 
@@ -79,16 +79,16 @@ npm run dev   # or `npm start` if using CRA
 ## Screenshots
 
 *Home page*
-![Home page](./src/assets/1.png)<br><br>
+![Home page](./public/assets/1.png)<br><br>
 
 *Skills page*
-![Skills page](./src/assets/2.png)<br><br>
+![Skills page](./public/assets/2.png)<br><br>
 
 *Work page*
-![Work page](./src/assets/3.png)<br><br>
+![Work page](./public/assets/3.png)<br><br>
 
 *About Me page*
-![About Me page](./src/assets/4.png)<br><br>
+![About Me page](./public/assets/4.png)<br><br>
 
 ## License
 

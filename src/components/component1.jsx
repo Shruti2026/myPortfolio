@@ -15,7 +15,7 @@ function Component1() {
             <section className="flex flex-col justify-between h-screen">
                 <nav className="flex justify-between items-center px-5 mt-2 mr-5">
                     <div>
-                        <img src="./src/assets/name_logo.png" alt="S Logo" className="hover:opacity-80 w-16"></img>
+                        <img src="/assets/name_logo.png" alt="S Logo" className="hover:opacity-80 w-16"></img>
                     </div>
                     <div className='flex justify-between gap-8'>
                         <Link to="/">
@@ -53,13 +53,13 @@ function Component1() {
                             I am currently pursuing my MCA at NIT Raipur with a strong passion for full-stack web development. 
                             I develop modern web applications using the <span className="text-pink-400">MERN stack</span>—
                             <div className="inline-flex">
-                                <img src="/src/assets/mongodb.png" className="w-6 h-7"></img>
+                                <img src=" /assets/mongodb.png" className="w-6 h-7"></img>
                                 <p className="flex text-base ml-2 italic">MongoDB ,</p>
-                                <img src="/src/assets/expressjs.png" className="w-6 h-7 ml-4"></img>
+                                <img src=" /assets/expressjs.png" className="w-6 h-7 ml-4"></img>
                                 <p className="flex text-base ml-2 italic">Express.js ,</p>
-                                <img src="/src/assets/react.webp" className="w-6 h-7 ml-4"></img>
+                                <img src=" /assets/react.webp" className="w-6 h-7 ml-4"></img>
                                 <p className="flex text-base ml-2 italic">React ,</p>
-                                <img src="/src/assets/nodejs.png" className="w-6 h-7 ml-4"></img>
+                                <img src=" /assets/nodejs.png" className="w-6 h-7 ml-4"></img>
                                 <p className="flex text-base ml-2 italic">Node.js </p>
                             </div> <br></br>
                             My experience includes building scalable backend systems, integrating APIs, and managing SQL databases. 
@@ -86,13 +86,13 @@ function Component1() {
                         >
                             {/* Front Image */}
                             <motion.img 
-                                src="/src/assets/myphoto1.jpg" 
+                                src="/assets/myphoto1.jpg" 
                                 className="absolute w-64 h-64 rounded-full border-x-6 border-pink-400 backface-hidden"
                                 style={{ backfaceVisibility: "hidden" }}
                             />
                             {/* Back Image */}
                             <motion.img 
-                                src="/src/assets/bitemoji.jpg" 
+                                src=" /assets/bitemoji.jpg" 
                                 className="absolute w-64 h-64 rounded-full border-x-6 border-pink-400"
                                 style={{ transform: "rotateY(180deg)", backfaceVisibility: "hidden" }}
                             />
@@ -102,7 +102,7 @@ function Component1() {
                         <li className="w-10">
                             <a href="https://www.linkedin.com/in/shruti-gupta-193709210/" target="_blank" rel="noopener noreferrer">
                             <img
-                                src="src/assets/linkedin.png"
+                                src="public/assets/linkedin.png"
                                 className="transform transition-transform duration-300 hover:scale-140 hover:opacity-80 w-10"
                                 alt="LinkedIn"
                             />
@@ -111,7 +111,7 @@ function Component1() {
                         <li className="w-10">
                             <a href="https://www.instagram.com/_shruti_2026_/?hl=en" target="_blank" rel="noopener noreferrer">
                             <img
-                                src="src/assets/instagram.png"
+                                src="public/assets/instagram.png"
                                 className="transform transition-transform duration-300 hover:scale-140 hover:opacity-80 w-10"
                                 alt="Instagram"
                             />
@@ -120,7 +120,7 @@ function Component1() {
                         <li className="w-10">
                             <a href="mailto:gshruti779@gmail.com" target="_blank" rel="noopener noreferrer">
                             <img
-                                src="src/assets/email.png"
+                                src="public/assets/email.png"
                                 className="transform transition-transform duration-300 hover:scale-140 hover:opacity-80 w-10"
                                 alt="Email"
                             />
@@ -129,7 +129,7 @@ function Component1() {
                         <li className="w-10">
                             <a href="https://github.com/Shruti2026" target="_blank" rel="noopener noreferrer">
                             <img
-                                src="src/assets/github.png"
+                                src="public/assets/github.png"
                                 className="transform transition-transform duration-300 hover:scale-140 hover:opacity-80 w-10"
                                 alt="GitHub"
                             />

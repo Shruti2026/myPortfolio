@@ -13,7 +13,7 @@ function Component3() {
             {/* Navbar */}
             <nav className="flex justify-between items-center px-5 mt-2 mr-3">
                 <div>
-                    <img src="./src/assets/name_logo.png" alt="S Logo" className="hover:opacity-80 w-16" />
+                    <img src="/assets/name_logo.png" alt="S Logo" className="hover:opacity-80 w-16" />
                 </div>
                 <div className="flex justify-between gap-8">
                     <Link to="/">
@@ -37,7 +37,7 @@ function Component3() {
                         </button>
                     </Link>
                     <button className="text-lg text-white hover:underline decoration-pink-400 active:opacity-95">
-                        <a href="/src/assets/updated_resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
+                        <a href="/assets/updated_resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
                     </button>
                 </div>
             </nav>
@@ -51,7 +51,7 @@ function Component3() {
                 <div className="flex justify-start">
                     <div className="bg-pink-100 p-3 w-[1000px] h-[270px] flex items-center rounded-lg shadow-lg">
                         <img 
-                        src="/src/assets/cashcraft.png" 
+                        src="/assets/cashcraft.png" 
                         alt="CashCraft"
                         className="w-70 h-70 object-contain mr-6"
                         />
@@ -77,7 +77,7 @@ function Component3() {
                             </p>
                         </div>
                         <img 
-                        src="/src/assets/aiProject.jpg" 
+                        src="/assets/aiProject.jpg" 
                         alt="Spam Detector"
                         className="w-70 h-70 object-contain mr-6"
                         />
@@ -88,7 +88,7 @@ function Component3() {
                 <div className="flex justify-start">
                    <div className="bg-pink-100 p-3 w-[1000px] h-[270px] flex items-center rounded-lg shadow-lg">
                         <img 
-                        src="/src/assets/travel.jpg" 
+                        src="/assets/travel.jpg" 
                         alt="travel website"
                         className="w-70 h-70 object-contain mr-6"
                         />
@@ -114,7 +114,7 @@ function Component3() {
                             </p>
                         </div>
                         <img 
-                        src="/src/assets/calculator.png" 
+                        src="/assets/calculator.png" 
                         alt="Calculator"
                         className="w-80 h-60 object-contain mr-6"
                         />
