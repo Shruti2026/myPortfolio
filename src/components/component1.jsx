@@ -39,7 +39,7 @@ function Component1() {
                             </button>
                         </Link>
                         <button className="text-lg text-white hover:underline decoration-pink-400 active:opacity-95">
-                            <a href="/src/assets/updated_resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
+                            <a href="/assets/updated_resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
                         </button>
                     </div>
                 </nav>
@@ -102,7 +102,7 @@ function Component1() {
                         <li className="w-10">
                             <a href="https://www.linkedin.com/in/shruti-gupta-193709210/" target="_blank" rel="noopener noreferrer">
                             <img
-                                src="public/assets/linkedin.png"
+                                src="/assets/linkedin.png"
                                 className="transform transition-transform duration-300 hover:scale-140 hover:opacity-80 w-10"
                                 alt="LinkedIn"
                             />
@@ -111,7 +111,7 @@ function Component1() {
                         <li className="w-10">
                             <a href="https://www.instagram.com/_shruti_2026_/?hl=en" target="_blank" rel="noopener noreferrer">
                             <img
-                                src="public/assets/instagram.png"
+                                src="/assets/instagram.png"
                                 className="transform transition-transform duration-300 hover:scale-140 hover:opacity-80 w-10"
                                 alt="Instagram"
                             />
@@ -120,7 +120,7 @@ function Component1() {
                         <li className="w-10">
                             <a href="mailto:gshruti779@gmail.com" target="_blank" rel="noopener noreferrer">
                             <img
-                                src="public/assets/email.png"
+                                src="/assets/email.png"
                                 className="transform transition-transform duration-300 hover:scale-140 hover:opacity-80 w-10"
                                 alt="Email"
                             />
@@ -129,7 +129,7 @@ function Component1() {
                         <li className="w-10">
                             <a href="https://github.com/Shruti2026" target="_blank" rel="noopener noreferrer">
                             <img
-                                src="public/assets/github.png"
+                                src="/assets/github.png"
                                 className="transform transition-transform duration-300 hover:scale-140 hover:opacity-80 w-10"
                                 alt="GitHub"
                             />
