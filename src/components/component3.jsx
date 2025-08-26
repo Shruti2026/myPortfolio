@@ -37,7 +37,7 @@ function Component3() {
                         </button>
                     </Link>
                     <button className="text-lg text-white hover:underline decoration-pink-400 active:opacity-95">
-                        <a href="/assets/updated_resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
+                        <a href="/assets/myResume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
                     </button>
                 </div>
             </nav>
@@ -69,17 +69,18 @@ function Component3() {
                 <div className="flex justify-end">
                     <div className="bg-pink-100 p-3 w-[1000px] h-[270px] flex items-center rounded-lg shadow-lg">
                         <div className="text-gray-800 space-y-2">
-                            <p className="text-2xl font-bold">Title: Email/SMS Spam Predictor</p>
-                            <p className="text-lg"><span className="font-bold">Technology:</span> Python, Naïve Bayes Classifer, ML, NLP, Streamlit</p>
+                            <p className="text-2xl font-bold">Title: CodeCast</p>
+                            <p className="text-lg"><span className="font-bold">Technology:</span> React, TailwindCSS, Express.js, Node.js, MongoDb, Socket.io</p>
                             <p className="text-md">
-                                <span className="font-bold">Description:</span> A web-based application that predicts whether a given email or SMS message is HAM (Not Spam) or SPAM using Naive Bayes Classifier,
-                                                                                 Natural Language Processing (NLP) techniques, and a sleek interface built with Streamlit. <a href="https://github.com/Shruti2026/Email-SMS-Spam-Detector.git" className="text-blue-500 underline decoration-blue-500" target="_blank">View more</a>
+                                <span className="font-bold">Description:</span> a collaborative code editor enabling real-time multi-user coding sessions with Socket.io. 
+                                                                                Implemented rooms and presence with efficient update broadcasting to keep everyone’s view in sync. 
+                                                                                <a href="https://github.com/Shruti2026/CodeCast.git" className="text-blue-500 underline decoration-blue-500" target="_blank">View more</a>
                             </p>
                         </div>
                         <img 
-                        src="/assets/aiProject.jpg" 
+                        src="/assets/aiProject.png" 
                         alt="Spam Detector"
-                        className="w-70 h-70 object-contain mr-6"
+                        className="w-90 h-80 object-contain mr-6"
                         />
                     </div>
                 </div>

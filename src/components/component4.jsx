@@ -37,7 +37,7 @@ function Component4()
                         </button>
                     </Link>
                     <button className="text-lg text-white hover:underline decoration-pink-400 active:opacity-95">
-                        <a href="/assets/updated_resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
+                        <a href="/assets/myResume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
                     </button>
                 </div>
             </nav>
