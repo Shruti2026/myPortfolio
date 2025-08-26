@@ -70,7 +70,7 @@ function Component3() {
                     <div className="bg-pink-100 p-3 w-[1000px] h-[270px] flex items-center rounded-lg shadow-lg">
                         <div className="text-gray-800 space-y-2">
                             <p className="text-2xl font-bold">Title: CodeCast</p>
-                            <p className="text-lg"><span className="font-bold">Technology:</span> React, TailwindCSS, Express.js, Node.js, MongoDb, Socket.io</p>
+                            <p className="text-lg"><span className="font-bold">Technology:</span> React, Bootstrap, Socket.io</p>
                             <p className="text-md">
                                 <span className="font-bold">Description:</span> a collaborative code editor enabling real-time multi-user coding sessions with Socket.io. 
                                                                                 Implemented rooms and presence with efficient update broadcasting to keep everyone’s view in sync. 
